@@ -1,5 +1,14 @@
 ## learn react
 
+参考：
+
+- [一名 vueCoder 总结的 React 基础](https://juejin.cn/post/6960556335092269063#heading-40)
+- [我在大厂写 React 学到了什么？性能优化篇](https://mp.weixin.qq.com/s/lkYoiPorc6TQ19zPK_W-1A)
+- [useEffect 使用指南](https://mp.wexin.qq.com/s/XN82E1jt1VjJK2eLwPRm4A)
+- [Dan Abramov 访谈实录](https://mp.weixin.qq.com/s/SBVE34dW9g4BsabmLJV9wg)
+- [「React 进阶」 学好这些 React 设计模式，能让你的 React 项目飞起来](https://mp.weixin.qq.com/s/dfnajqS0NqTkp7fzK4-4Sw)
+- [React Hook 高级用法](https://mp.weixin.qq.com/s/8gbPY2YooCeF-3XgKcG21w)
+
 只用函数组件 + Hook
 
 ## useState 状态
